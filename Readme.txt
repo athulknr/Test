@@ -1,6 +1,5 @@
 Thanks for downloading this template!
 
-Template Name: Test HTML
+Template Name: Test github branching,pushing 
 Template URL: 
-Author: 
-License: 
+Author: athulknr
